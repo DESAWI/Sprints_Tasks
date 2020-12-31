@@ -12,7 +12,7 @@
 
 int main(void)
 {
-	IntCtrl_Init();
+
 	for(;;)
 	{
 
