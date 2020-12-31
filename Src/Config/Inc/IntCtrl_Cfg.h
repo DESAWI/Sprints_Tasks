@@ -8,7 +8,6 @@
 #ifndef CONFIG_INTCTRL_CFG_H_
 #define CONFIG_INTCTRL_CFG_H_
 
-#define NUM_OF_ACTIVATED_INTERRUPTS	(3)
 
 
 

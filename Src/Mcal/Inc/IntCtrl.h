@@ -9,7 +9,7 @@
 #define MCAL_INC_INTCTRL_H_
 
 
-void IntCtrl_Init(void);
+
 
 
 #endif /* MCAL_INC_INTCTRL_H_ */
