@@ -1,0 +1,4 @@
+IntCtrl.c:16:6:IntCtrl_Init	24	static
+IntCtrl.c:42:6:I2C1_EV_IRQHandler	8	static
+IntCtrl.c:47:6:SPI1_IRQHandler	8	static
+IntCtrl.c:52:6:USART1_IRQHandler	8	static
