@@ -2,7 +2,7 @@
  * Std_Types.h
  *
  *  Created on: Dec 26, 2020
- *      Author: Ahmed Desawi
+ *      Author: Ahmed Ibrahim
  */
 
 #ifndef COMMON_STD_TYPES_H_
