@@ -1,4 +1,6 @@
 "Src/App/main.o"
 "Src/Config/IntCtrl_Lcfg.o"
+"Src/Config/Mcu_Lcfg.o"
 "Src/Mcal/IntCtrl.o"
+"Src/Mcal/Mcu.o"
 "Startup/startup_stm32f411vetx.o"

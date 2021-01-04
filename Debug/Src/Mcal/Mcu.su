@@ -1,0 +1,4 @@
+Mcu.c:21:6:Mcu_Init	16	static
+Mcu.c:37:6:Mcu_PerformReset	16	static
+Mcu.c:52:18:Mcu_GetResetRawValue	16	static
+Mcu.c:100:16:Mcu_InitClock	32	static

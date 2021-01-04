@@ -8,6 +8,6 @@
 #ifndef COMMON_COMPILER_H_
 #define COMMON_COMPILER_H_
 
-
+#define NULL_PTR	((void *)0)
 
 #endif /* COMMON_COMPILER_H_ */
